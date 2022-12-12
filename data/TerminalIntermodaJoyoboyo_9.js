@@ -1,0 +1,1 @@
+var json_TerminalIntermodaJoyoboyo_9 = {"type":"FeatureCollection","name":"TerminalIntermodaJoyoboyo_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[112.736464122579676,-7.298953151732644]}}]}
